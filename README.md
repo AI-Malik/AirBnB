@@ -35,7 +35,7 @@ We will be stating some facts based on data analysed for Airbnb data acquired fo
     sklearn
           
 ###  Medium Blogpost
-
+https://medium.com/@ai.mdmalik/the-essential-information-regarding-airbnb-data-for-seattle-in-2016-ee5bbb373ba9
 
 
 ###  Summary
