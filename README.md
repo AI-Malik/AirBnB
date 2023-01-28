@@ -1,34 +1,30 @@
-### Airbnb Seattle Analysis
+### Airbnb Seattle Data Analysis
 
 ###  Purpose Of Project
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locations.
 
-I will be stating some facts based on data analysed for Airbnb data acquired for the city of Seattle.
+We will be stating some facts based on data analysed for Airbnb data acquired for the city of Seattle.
 
 
 ### Questions Addressed
 
-1.What is the most busiest time of the year?
-2.What is the average price per month in 2016 year?
-3.Does Price affect rating given by users?
-4.Does Price affect host response rate?
-5.What is the correlation of different features with price?
+1. Which month is the busiest time of the year?
+2. What is the average price per month in 2016 year?
+3. How does Price affect rating given by users?
+4. Does Price affect host response rate?
+5. Is their a correlation of different features with price?
 
 ### Contents
     
-    File: airbnb_analysis.ipnyb 
-    File: airbnb_analysis.html 
-    File: README.md
-    Data: calendar.csv
-          listings.csv
+    File: airbnb_analysis_2.ipnyb 
+    File: README.md    
 
 ### Technical Details 
-     airbnb_analysis.ipnyb - The files contains all the steps to predict the price of a listing and analysis of calendar dataset.                                   This file also contains appropriate comments and doc string wherever neded.
-     airbnb_analysis.html - This file is the html version of Jupyter notebook.
+     airbnb_analysis_2.ipnyb - The files contains all the steps to predict the price of a listing and analysis of calendar dataset.                                   This file also contains appropriate comments and doc string wherever neded.
      
      README.md - Contains information about the project.
-     calendar.csv - Input Calendar dataset
+     Calendar & Listing Data set can be downloaded from 
      listings.csv - Input Listings dataset
 
 
