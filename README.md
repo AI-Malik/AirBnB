@@ -1,7 +1,7 @@
 ### Airbnb Seattle Data Analysis
 
 ###  Purpose Of Project
--
+
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locations.
 
 We will be stating some facts based on data analysed for Airbnb data acquired for the city of Seattle.
@@ -35,7 +35,7 @@ We will be stating some facts based on data analysed for Airbnb data acquired fo
     sklearn
           
 ###  Medium Blogpost
-https://medium.com/@sharvari.wagle1689/all-you-need-to-know-about-airbnb-data-seattle-2016-dbc2d36eb473
+
 
 
 ###  Summary
