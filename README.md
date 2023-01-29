@@ -18,6 +18,7 @@ We will be stating some facts based on data analysed for Airbnb data acquired fo
 ### Contents
     
     File: airbnb_analysis_2.ipnyb 
+    File: custom_lib.py
     File: README.md    
 
 ### Technical Details 
